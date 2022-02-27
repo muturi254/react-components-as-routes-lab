@@ -1,4 +1,4 @@
-let movies = [
+  let movies = [
   {
     title: 'Doctor Strange',
     time: 115,
